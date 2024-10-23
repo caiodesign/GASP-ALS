@@ -42,6 +42,11 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
+		},
+		{
+			"Name": "C3_KickstartBlueprintLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a319931ee3f94468937409376153384c"
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
